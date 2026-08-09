@@ -30,4 +30,4 @@ extensible workflow.
 
 ## Links
 
-[LinkedIn]((https://www.linkedin.com/in/noham-ouazine-245620348))
+[LinkedIn](https://www.linkedin.com/in/noham-ouazine-245620348)
