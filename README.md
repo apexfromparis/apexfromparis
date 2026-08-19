@@ -1,28 +1,16 @@
-# Noham Ouazine
+# Hey, I'm Noham
 
 Software engineer in progress.
 
-I’m currently learning software engineering through real projects, with a strong interest in systems, backend development, product building, and developer tools.
-
-## What I’m doing
-
-- Building **OpenReverse**
-- Learning by shipping projects
-- Improving my foundations in software development
-- Exploring low-level programming, backend architecture, and product design
+I’m learning by building real projects and improving my foundations in software development.
 
 ## Current focus
 
-Right now I’m focused on becoming a stronger developer by working on real code, understanding how things work deeply, and building better projects over time.
+- Building **OpenReverse**
+- Learning software engineering through practice
+- Exploring systems, backend development, and developer tools
 
-## Projects
+## Connect
 
-### OpenReverse
-An open-source reverse-engineering workspace for Windows.
-
-## Links
-
-- GitHub: [github.com/apexfromparis](https://github.com/apexfromparis)
-- LinkedIn: [linkedin.com/in/noham-ouazine-245620348](https://www.linkedin.com/in/noham-ouazine-245620348/)
-
----
+- GitHub: [apexfromparis](https://github.com/apexfromparis)
+- LinkedIn: [Noham Ouazine](https://www.linkedin.com/in/noham-ouazine-245620348/)
