@@ -4,19 +4,18 @@
 
 # Hey, I'm Noham 👋
 
-I build software and work on projects that help me learn, experiment and improve.
+I’m learning software engineering by building real projects and improving through practice.
 
-## Projects
+## Current project
 
 ### [OpenReverse](https://github.com/apexfromparis/openreverse)
 
-Open-source reverse-engineering workspace for Windows.
+An open-source reverse-engineering workspace for Windows.
 
 ## Certifications
 
-### [Claude 101](https://verify.skilljar.com/c/tn9er4ofei8a)
-
-Certificate of Completion — Anthropic Education
+- [Claude 101](https://verify.skilljar.com/c/tn9er4ofei8a) — Anthropic Education
+- [Claude Code 101](https://verify.skilljar.com/c/8r7vzg9msxnu) — Anthropic Education
 
 ## Connect
 
