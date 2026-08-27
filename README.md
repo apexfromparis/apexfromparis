@@ -4,7 +4,7 @@
 
 # Hey, I'm Noham 👋
 
-I’m learning software engineering by building real projects and improving through practice.
+Software Developer building desktop software, web applications and AI-powered tools.
 
 ## Current project
 
